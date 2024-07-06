@@ -1,0 +1,51 @@
+[
+   {
+      "name": "Vanilla Cupcake",
+      "description": "A classic vanilla cupcake topped with vanilla buttercream frosting.",
+      "price": 2.5,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "milk", "vanilla extract"],
+      "glutenFree": false
+   },
+   {
+      "name": "Chocolate Cupcake",
+      "description": "Rich and moist chocolate cupcake with chocolate ganache frosting.",
+      "price": 2.75,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "milk", "cocoa powder"],
+      "glutenFree": false
+   },
+   {
+      "name": "Red Velvet Cupcake",
+      "description": "A velvety cupcake with a hint of cocoa, topped with cream cheese frosting.",
+      "price": 3.0,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "milk", "cocoa powder", "red food coloring"],
+      "glutenFree": false
+   },
+   {
+      "name": "Lemon Cupcake",
+      "description": "A zesty lemon cupcake with lemon buttercream frosting.",
+      "price": 2.8,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "milk", "lemon zest", "lemon juice"],
+      "glutenFree": false
+   },
+   {
+      "name": "Carrot Cupcake",
+      "description": "Moist carrot cupcake with cream cheese frosting and a hint of cinnamon.",
+      "price": 3.25,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "carrots", "cinnamon", "cream cheese"],
+      "glutenFree": false
+   },
+   {
+      "name": "Gluten-Free Chocolate Cupcake",
+      "description": "A delicious gluten-free chocolate cupcake with chocolate frosting.",
+      "price": 3.5,
+      "ingredients": ["gluten-free flour", "sugar", "eggs", "butter", "milk", "cocoa powder"],
+      "glutenFree": true
+   },
+   {
+      "name": "Strawberry Cupcake",
+      "description": "A light and fluffy strawberry cupcake with strawberry buttercream frosting.",
+      "price": 3.0,
+      "ingredients": ["flour", "sugar", "eggs", "butter", "milk", "strawberries"],
+      "glutenFree": false
+   }
+]
